@@ -1,6 +1,6 @@
-#Requisitos
 
-# Estados e inicialização do tabuleiro
+
+# movimentação
 
 * efetuar uma jogada (posicionar um símbolo em uma
 determinada posição do tabuleiro) seu sistema deverá
