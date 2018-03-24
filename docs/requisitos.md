@@ -2,6 +2,8 @@
 
 ## Estados e inicialização do tabuleiro
 
-* O sistema deverá manter o estado de cada uma das casas de um jogo da velha.
-
-* Cada casa do jogo da velha poderá estar vazia, ocupada pelo 1° jogador ou ocupada pelo 2° jogador.
+* efetuar uma jogada (posicionar um símbolo em uma
+determinada posição do tabuleiro) seu sistema deverá
+informar se é possível ou não efetuar a jogada. A jogada não
+poderá ser efetuada caso já haja um símbolo naquela
+posição do tabuleiro. 
